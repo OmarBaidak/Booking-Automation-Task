@@ -6,7 +6,8 @@
 Clone the repo:
 
 ```sh
-https://github.com/OmarBaidak/Booking-Automation-Task.git```
+https://github.com/OmarBaidak/Booking-Automation-Task.git
+```
 
 Install dependencies:
 
